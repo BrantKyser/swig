@@ -269,6 +269,7 @@ CPP_TEST_CASES += \
 	namespace_template \
 	namespace_typedef_class \
 	namespace_typemap \
+	namespace_system_collision \
 	namespace_union \
 	namespace_virtual_method \
 	nspace \
